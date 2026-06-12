@@ -16,8 +16,6 @@ Rather than relying on homogenous models or simple rule-based ensembles, our app
 ---
 
 ## Repository Purpose & Deployment Infrastructure
-This repository functions strictly as a public documentation portal for our quantitative research findings. To protect our underlying intellectual property and trade secrets, the production source code, model weights, and hyperparameter configurations remain classified.
-
 This repository documents research findings and methodology. Source code, model internals, and tuning details are not published here. We're open to discussing proof-of-concept collaborations, blinded benchmark tests on partner data, or licensing discussions.
 
 For live proof-of-concept testing, blinded dataset stress-tests, or licensing inquiries, please contact our core team directly.
